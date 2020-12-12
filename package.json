@@ -1,7 +1,7 @@
 {
-    "name": "demo-theme",
-    "displayName": "demo-theme",
-    "description": "",
+    "name": "owl-pro",
+    "displayName": "owl-pro",
+    "description": "VS Code Dark theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "demo theme",
+                "label": "OWL PRO",
                 "uiTheme": "vs-dark",
-                "path": "./themes/demo theme-color-theme.json"
+                "path": "./themes/owl pro theme-color-theme.json"
             }
         ]
     }
